@@ -84,7 +84,7 @@ If you want to leverage Google Colab’s free GPUs:
 
 Watch our step-by-step video tutorial to see these methods in action:
 
-[![AI-Image-Creation-Toolkit Video Tutorial](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=1k8isrDbnRQE)
+[![AI-Image-Creation-Toolkit Video Tutorial](https://img.youtube.com/vi/1k8isrDbnRQ/0.jpg)](https://www.youtube.com/watch?v=1k8isrDbnRQE)
 
 *(Click the image above to watch the video on YouTube)*
 
