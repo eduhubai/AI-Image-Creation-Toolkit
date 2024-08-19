@@ -1,0 +1,7 @@
+diffusers
+transformers
+requests
+Pillow
+torch 
+torchvision 
+torchaudio
