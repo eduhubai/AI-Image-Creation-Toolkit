@@ -8,6 +8,7 @@ Welcome to the AI-Image-Creation-Toolkit! This repository provides all the tools
 
 - **Local Image Generation**: Generate AI images directly on your computer at no cost.
 - **Cloud-Based Image Generation**: Leverage Hugging Face's API to generate images in the cloud, with up to 100 free images per month.
+- **Pollinations.AI Integration**: Use Pollinations.AI's free, no-signup API for immediate image generation - perfect for educational settings.
 - **Google Colab Integration**: Speed up image generation by running scripts on Google Colab using free GPUs.
 
 ## Getting Started
@@ -16,7 +17,7 @@ Welcome to the AI-Image-Creation-Toolkit! This repository provides all the tools
 
 - Python 3.x installed on your computer.
 - An IDE like VSCode or PyCharm (optional but recommended).
-- A Hugging Face account for cloud-based image generation.
+- A Hugging Face account for cloud-based image generation (not needed if using Pollinations.AI).
 
 ### Installation
 
@@ -67,7 +68,25 @@ To generate images using Hugging Face’s cloud API:
 
 The generated image will be saved as `output.png` in the project directory.
 
-### 3. Using Google Colab
+### 3. Pollinations.AI Image Generation
+
+To generate images using Pollinations.AI (no signup or API key required):
+
+1. Open the `pollinations.py` script in your IDE.
+2. Customize the `prompt` variable with your desired image description.
+3. Optionally adjust width, height, and model parameters.
+4. Run the script.
+
+The generated image will be saved as `pollinations_output.png` in the project directory.
+
+Benefits of using Pollinations.AI:
+- No signup required
+- No API key needed
+- Free to use
+- Multiple models available
+- Perfect for classroom and educational settings
+
+### 4. Using Google Colab
 
 If you want to leverage Google Colab’s free GPUs:
 
@@ -100,6 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Hugging Face**: For providing the API used in cloud-based image generation.
 - **Diffusers Library**: For the tools used to generate images locally.
+- **Pollinations.AI**: For providing a free, no-signup API for image generation.
 
 ---
 

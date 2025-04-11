@@ -1,7 +1,8 @@
 diffusers
 transformers
 requests
-Pillow
+pillow
+ipython
 torch 
 torchvision 
 torchaudio
